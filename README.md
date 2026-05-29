@@ -14,14 +14,13 @@ Exercícios da disciplina de **Algoritmos e Estrutura de Dados** cobrindo manipu
 ## 📂 Estrutura
 
 ```
-listas-faculdade/
-│
-├── exercicios/
-│   ├── ex01_pares_impares.py       # Separação de números em listas de pares e ímpares
-│   ├── ex02_multas_veiculos.py     # Controle de multas com listas paralelas
-│   └── ex03_cadastro_alunos.py    # Cadastro de alunos com análise estatística
+exercicios-python-faculdade-lista
 │
 └── README.md
+|── ex01_pares_impares.py       # Separação de números em listas de pares e ímpares
+│── ex02_multas_veiculos.py     # Controle de multas com listas paralelas
+│── ex03_cadastro_alunos.py    # Cadastro de alunos com análise estatística
+
 ```
 
 ---
