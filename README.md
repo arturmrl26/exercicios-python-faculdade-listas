@@ -16,7 +16,7 @@ Exercícios da disciplina de **Algoritmos e Estrutura de Dados** cobrindo manipu
 ```
 exercicios-python-faculdade-lista
 │
-└── README.md
+|── README.md
 |── ex01_pares_impares.py       # Separação de números em listas de pares e ímpares
 │── ex02_multas_veiculos.py     # Controle de multas com listas paralelas
 │── ex03_cadastro_alunos.py    # Cadastro de alunos com análise estatística
@@ -28,7 +28,7 @@ exercicios-python-faculdade-lista
 ## 🧩 Exercícios
 
 ### Exercício 01 — Separação de Pares e Ímpares
-**Arquivo:** `exercicios/ex01_pares_impares.py`
+**Arquivo:** `ex01_pares_impares.py`
 
 O usuário insere quantos números quiser (critério de parada por decisão) e o programa os distribui automaticamente entre uma lista de pares e outra de ímpares.
 
@@ -41,7 +41,7 @@ O usuário insere quantos números quiser (critério de parada por decisão) e o
 ---
 
 ### Exercício 02 — Controle de Multas de Veículos
-**Arquivo:** `exercicios/ex02_multas_veiculos.py`
+**Arquivo:** `ex02_multas_veiculos.py`
 
 Cadastra placa e valor de multa de 15 veículos em **listas paralelas** (índice `i` corresponde ao mesmo carro nas duas listas). Calcula média das multas e lista os veículos com multa acima de R$300,00.
 
@@ -54,7 +54,7 @@ Cadastra placa e valor de multa de 15 veículos em **listas paralelas** (índice
 ---
 
 ### Exercício 03 — Cadastro de Alunos com Análise de Notas
-**Arquivo:** `exercicios/ex03_cadastro_alunos.py`
+**Arquivo:** `ex03_cadastro_alunos.py`
 
 Cadastra N alunos com nome, nota e curso em três listas sincronizadas. Realiza três análises independentes: total por curso, média geral e contagem de alunos acima da média.
 
@@ -102,7 +102,7 @@ git clone https://github.com/seu-usuario/python-faculdade.git
 cd python-faculdade/listas-faculdade
 
 # Execute qualquer exercício
-python exercicios/ex01_pares_impares.py
+python ex01_pares_impares.py
 ```
 
 ---
@@ -116,7 +116,3 @@ python exercicios/ex01_pares_impares.py
 ## 👨‍🎓 Contexto
 
 Este módulo faz parte de um repositório maior de exercícios de graduação. Cada pasta cobre um tema específico da disciplina de Algoritmos — juntos, formam um portfólio de aprendizado progressivo.
-
----
-
-> *"Dominar listas é o primeiro passo para dominar qualquer estrutura de dados."*
